@@ -1,0 +1,38 @@
+body {
+    background: linear-gradient(to right, #3f5efb, #fc466f);
+}
+
+.wrapper {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    margin: 15px;
+    font-size: 6rem;
+    color: rgb(238, 196, 12);
+}
+
+.dice-area {
+    margin: 0px 50px;
+    text-align: center;
+    display: inline-block;
+}
+
+p {
+    font-size: 3rem;
+    font-family: Courier;
+}
+
+#step {
+    color: rgb(174, 201, 219);
+}
+
+#event {
+    color: rgb(174, 201, 219);
+}
+
+img {
+    width: 400px;
+}
