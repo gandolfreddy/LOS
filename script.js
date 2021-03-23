@@ -28,7 +28,7 @@ function showEvent() {
 }
 
 function generateRandomEvent() {
-    for (let i=1; i<=20; i++) {
-        setTimeout(showEvent, 50 * i);
+    for (let i=1; i<=10; i++) {
+        setTimeout(showEvent, 100 * i);
     }
 }
