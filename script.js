@@ -13,7 +13,7 @@ function showStep() {
 
 function generateRandomStep() {
     for (let i=1; i<=20; i++) {
-        setTimeout(showStep, 50*i);
+        setTimeout(showStep, 100*i);
     }
 }
 
